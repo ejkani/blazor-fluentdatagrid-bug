@@ -36,3 +36,9 @@
 ## Works in v 4.3.1
 
 ![v4.3.1](./FluentDataGrid-RenderingItems-v4.3.1.png)
+
+## fluent-blazor template error
+
+Not related to the nuget version, but the template also has errors, causing build error after project is created.
+
+[Template error](MissingQuoteInTemplate.png)
