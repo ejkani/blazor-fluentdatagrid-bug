@@ -41,4 +41,4 @@
 
 Not related to the nuget version, but the template also has errors, causing build error after project is created.
 
-[Template error](MissingQuoteInTemplate.png)
+![Template error](MissingQuoteInTemplate.png)
